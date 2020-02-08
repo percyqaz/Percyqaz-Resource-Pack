@@ -1,0 +1,17 @@
+{
+    "targets": [
+        "swap"
+    ],
+    "passes": [
+        {
+            "name": "fxaa",
+            "intarget": "minecraft:main",
+            "outtarget": "swap"
+        },
+        {
+            "name": "antialias",
+            "intarget": "swap",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}

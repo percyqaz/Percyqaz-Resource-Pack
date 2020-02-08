@@ -1,0 +1,18 @@
+{
+    "targets": [
+        "0",
+        "1"
+    ],
+    "passes": [
+        {
+            "name": "blobs",
+            "intarget": "minecraft:main",
+            "outtarget": "0"
+        },
+        {
+            "name": "bumpy",
+            "intarget": "0",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}

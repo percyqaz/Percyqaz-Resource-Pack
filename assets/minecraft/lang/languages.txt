@@ -1,0 +1,4 @@
+﻿pq_AZ=Percyqaz's Language Pack v1.0.5
+ch_EM=The Chemistry Pack v1.0.1
+en_US=English - UK
+en_GB=Colorised

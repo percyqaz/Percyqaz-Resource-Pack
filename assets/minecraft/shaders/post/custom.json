@@ -1,0 +1,28 @@
+{
+    "targets": [
+        "swap"
+		"swap2"
+		"swap3"
+		"previous"
+    ],
+    "passes": [
+        {
+            "name": "bumpy",
+            "intarget": "swap2",
+            "outtarget": "swap"
+        },
+            "name": "blit",
+            "intarget": "swap3",
+            "outtarget": "swap2"
+        },
+            "name": "antialias",
+            "intarget": "minecraft:main",
+            "outtarget": "swap3"
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}

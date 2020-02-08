@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "Percyqaz's Resource Pack!"
+  },
+  "language": {
+	"pq_AZ": {
+      "name": "Percyqaz's Language Pack",
+      "region": "UK",
+      "bidirectional": false
+	}
+  }
+}
