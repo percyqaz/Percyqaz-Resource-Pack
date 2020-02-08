@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 {
   "pack": {
-    "pack_format": 3,
+    "pack_format": 5,
     "description": "Percyqaz's Resource Pack!"
   },
   "language": {
@@ -9,21 +8,6 @@
       "name": "Percyqaz's Language Pack",
       "region": "UK",
       "bidirectional": false
-	}
+	  }
   }
 }
-=======
-{
-  "pack": {
-    "pack_format": 3,
-    "description": "Percyqaz's Resource Pack!"
-  },
-  "language": {
-	"pq_AZ": {
-      "name": "Percyqaz's Language Pack",
-      "region": "UK",
-      "bidirectional": false
-	}
-  }
-}
->>>>>>> 1e6d4b5a4be3afdfb981f80f51d3d01591a21d7b
